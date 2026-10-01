@@ -1,8 +1,0 @@
-int a, b, c;
-a = 23 b = 2;
-Caso 1 a / b + 5 = 16
-Caso 2 3 + a / b = 14
-Caso 3 4 + b / a = 4
-Caso 4 a % b = 1
-Caso 5 a++ = 23
-Caso 6 b * b + (++b) = 7
